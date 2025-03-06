@@ -5,17 +5,17 @@ This Inventory Analysis in the PowerBI project uses a fictitious dataset from Wa
 
 ## Project Stages
 ### 1. Data Preparation
-- Explores the dataset in Power Query to fix errors and inconsistencies.
-- Validate and refine data to ensure accuracy before deeper analysis.
+- Explored the dataset in Power Query to fix errors and inconsistencies.
+- Validated and refined data to ensure accuracy before deeper analysis.
 
 ### 2. Inventory Analysis
-- Calculate important metrics such as inventory turnover and perform ABC analysis to categorize products.
-- Use DAX formulas to identify sales, purchasing, and stock movement trends.
+- Calculated important metrics such as inventory turnover and performed ABC analysis to categorize products.
+- Used DAX formulas to identify sales, purchasing, and stock movement trends.
 
 ### 3. Reporting and Visualization
-- Develop interactive Power BI dashboards to present clear insights on inventory performance.
-- Highlight key metrics to guide decisions on purchase strategies and stock levels.
-- Explain profitable products, overstock risks, and potential stock-outs.
+- Developed interactive Power BI dashboards to present clear insights on inventory performance.
+- Highlighted key metrics to guide decisions on purchase strategies and stock levels.
+- Explained profitable products, overstock risks, and potential stock-outs.
 
 ## Key Results
 - Identified and resolved data quality issues, establishing a reliable dataset.
