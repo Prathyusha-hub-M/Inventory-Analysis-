@@ -1,7 +1,11 @@
 # Inventory Analysis
 
 ## Project Overview
-This Inventory Analysis in the PowerBI project uses a fictitious dataset from WarmeHands Inc. The dataset presents typical real-world complexities, requiring thorough cleaning and transformation. Power Query and DAX formulas are applied to uncover key insights and provide data-driven recommendations for improved inventory management and purchasing decisions.
+**Inventory Management Analysis Using Power BI**
+
+I created an inventory management solution with Power BI. I began by cleaning the dataset using Power Query to fix errors and ensure the data was correct. Then, I calculated key numbers like inventory turnover and used ABC analysis to sort products. I also applied DAX formulas to see trends in sales, purchasing, and stock movement.
+
+I built interactive Power BI dashboards to clearly show my findings. The dashboards highlighted which products were profitable, where there was too much stock, and where shortages might occur. These insights guided decisions on when and what to purchase and helped manage stock more effectively.
 
 ## Project Stages
 ### 1. Data Preparation
