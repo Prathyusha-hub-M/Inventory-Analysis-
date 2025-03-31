@@ -20,6 +20,8 @@ I built interactive Power BI dashboards to clearly show my findings. The dashboa
 - Developed interactive Power BI dashboards to present clear insights on inventory performance.
 - Highlighted key metrics to guide decisions on purchase strategies and stock levels.
 - Explained profitable products, overstock risks, and potential stock-outs.
+- ![Inventory Sales analysispdf_pages-to-jpg-0009](https://github.com/user-attachments/assets/e019e3d5-1be3-4b88-a83d-179fc5b94398)
+
 
 ## Key Results
 - Identified and resolved data quality issues, establishing a reliable dataset.
